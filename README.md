@@ -3,3 +3,4 @@
 -Built an interactive Tableau dashboard to visualize the findings.
 
 ## Tableau Dashboard Preview
+![Dashboard](dashboard/jpeg.jpg)
