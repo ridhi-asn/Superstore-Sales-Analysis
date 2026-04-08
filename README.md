@@ -14,6 +14,7 @@ While the technology category held the lowest % of orders, it resulted in the gr
 While New York and Texas had roughly the same % of total orders, the % of total sales in New York far exceeded that of Texas, highlighting an important area for investment.
 While binders and sales had the highest % of total orders amongst sub-categories, the highest % of total sales came from phones and chairs, which the Superstore may choose to emphasize in production or marketing campaigns in the future.
 
-### SQL Analysis: 
+#### SQL Analysis: 
+[View SQL Queries](superstore_analysis.sql)
 
 
