@@ -1,5 +1,5 @@
 ## Overview
-Used PostgreSQL to analyze where Superstore can maximize sales, identifying which regions, states, cities, categories, sub-categories, and segments drive the greatest % of total sales and total orders. 
+Used PostgreSQL to analyze Superstore sales, identifying which regions, states, cities, categories, sub-categories, and segments drive the greatest % of total sales and total orders. 
 Built an interactive Tableau dashboard to visualize the findings.
 
 #### Dataset: [superstore1.csv](superstore1.csv) (9800 orders X 18 variables)
